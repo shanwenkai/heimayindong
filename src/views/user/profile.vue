@@ -1,7 +1,5 @@
 <template>
-<div style="backgroud:red">首页页面
-    <button>按钮</button>
-</div>
+  <div></div>
 </template>
 
 <script>
